@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "5bd2dd079525a469",
+    "type": "split",
+    "children": [
+      {
+        "id": "745f59a7bbba7fbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "零部件.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f90f4910353c07d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "091c0f680538c0fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2ec6f6e24f5bf75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a399be3693fadb0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b93ab1c6f4fd6d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af5fb153e55119a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6cf2456a1f3edb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "零部件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "745f59a7bbba7fbc",
+  "lastOpenFiles": [
+    "零部件.md",
+    "软横跨结构.md",
+    "未命名.md"
+  ]
+}
